@@ -8,6 +8,5 @@ def get_variable_from_file(file, variable)
   end
 end
 
-
 # foo = get_variable_from_file('./lib/test.rb', "foo")
 # expect(foo).to eq("bar")
