@@ -9,5 +9,5 @@ def capture_puts
   end
 end
 
-# output = capture_puts{ display_board }
-# expect(output).to include("   ")
+# output = capture_puts{ method_with_puts_statement }
+# expect(output).to include("method_output")
